@@ -1,0 +1,6 @@
+{
+  "name": "Swagat Family Restaurant",
+  "description": "Premium Indian Family Dining with Modern Street-Food Energy. Freshly cooked happiness served daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
